@@ -22,3 +22,5 @@ jobs:
         HUGO_VERSION: 0.111.3
         TARGET_REPO: arinwongprommoon/arinwongprommoon.github.io
         TOKEN: ${{ secrets.GHP_TOKEN }}
+        HUGO_ARGS: --debug
+        GO_VERSION: 1.17
