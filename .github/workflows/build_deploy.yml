@@ -20,6 +20,7 @@ jobs:
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.111.3
+        HUGO_EXTENDED: true
         TARGET_REPO: arinwongprommoon/arinwongprommoon.github.io
         TOKEN: ${{ secrets.GHP_TOKEN }}
         HUGO_ARGS: --debug
