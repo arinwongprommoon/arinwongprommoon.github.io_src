@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://arinwongprommoon.github.io/sitemap.xml
