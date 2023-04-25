@@ -22,10 +22,9 @@ marketing:
     twitter: ''
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
   verification:
     google: ''
-    baidu: ''
+    bing: ''
 
 # Site header
 
