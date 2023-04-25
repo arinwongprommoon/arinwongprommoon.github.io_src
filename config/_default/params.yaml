@@ -74,7 +74,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'commento'
     disqus:
       shortname: ''
       show_count: true
