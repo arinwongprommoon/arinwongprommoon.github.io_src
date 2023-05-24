@@ -81,4 +81,6 @@ I am a PhD researcher, jointly supervised by [Dr Diego Oyarzún](https://homepag
 
 My further research interests include computational approaches to modelling biological systems and best practices in developing software in biomedical research. My geek interests includes Linux and [GNU Emacs](https://www.gnu.org/software/emacs/). [Doom Emacs](https://github.com/doomemacs/doomemacs) is responsible for 80% of my life, including writing my thesis and this website.
 
+Check out my [public & open-source GitLab projects](https://gitlab.com/arin.wongprommoon), [PhD-related GitLab projects](https://git.ecdf.ed.ac.uk/s1947236), and [GitHub projects](https://github.com/arinwongprommoon).
+
 {style="text-align: justify;"}
