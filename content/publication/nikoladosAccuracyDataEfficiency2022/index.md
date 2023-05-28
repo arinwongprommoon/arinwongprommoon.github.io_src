@@ -68,7 +68,7 @@ projects: []
 # Lay summary
 Deep learning, a type of machine learning, can be used to predict how much protein a specific DNA sequence can produce. But, it usually needs a lot of data.
 
-We managed to get a deep learning model to do make predictions with less data, especially if the data is diverse.
+We managed to get a deep learning model to make predictions with less data, especially if the data is diverse.
 
 Our study is useful because people can then produce fewer DNA to train a model, and this is cheaper.
 
