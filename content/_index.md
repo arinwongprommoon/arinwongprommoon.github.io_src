@@ -43,7 +43,7 @@ sections:
         - title: PhD in Quantitative Biology
           company: Centre for Engineering Biology, University of Edinburgh
           company_url: 'https://www.ed.ac.uk/biology/centre-engineering-biology'
-          company_logo: 
+          company_logo: uoe 
           location: Edinburgh, United Kingdom
           date_start: '2019-10-01'
           date_end: ''
@@ -51,7 +51,7 @@ sections:
         - title: BA in Natural Sciences (Biochemistry)
           company: University of Cambridge
           company_url: 'https://www.natsci.tripos.cam.ac.uk/'
-          company_logo: 
+          company_logo: camb
           location: Cambridge, United Kingdom
           date_start: '2016-10-01'
           date_end: '2019-06-30'
