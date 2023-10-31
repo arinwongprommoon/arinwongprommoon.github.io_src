@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD researcher in Systems Biology
+role: Systems biologist & bioinformatician
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://www.ed.ac.uk/biology/centre-engineering-biology
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD researcher in systems biology and time series analysis of yeast metabolism.
+bio: Systems biologist & bioinformatician
 
 # Interests to show in About widget
 interests:
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD researcher, jointly supervised by [Dr Diego Oyarzún](https://homepages.inf.ed.ac.uk/doyarzun/) and [Prof Peter Swain](https://swainlab.bio.ed.ac.uk/). My project examines the metabolic oscillations in budding yeast using single-cell microfluidics. I produce heaps of data, so I use time series analysis and machine learning to sift through it.
+I am a systems biologist and bioinformatician. My PhD at the University of Edinburgh was jointly supervised by [Dr Diego Oyarzún](https://homepages.inf.ed.ac.uk/doyarzun/) and [Prof Peter Swain](https://swainlab.bio.ed.ac.uk/). My project examined the metabolic oscillations in budding yeast using single-cell microfluidics. I produced heaps of data, so I used time series analysis and machine learning to sift through it.
 
 My further research interests include computational approaches to modelling biological systems and best practices in developing software in biomedical research. My geek interests includes Linux and [GNU Emacs](https://www.gnu.org/software/emacs/). [Doom Emacs](https://github.com/doomemacs/doomemacs) is responsible for 80% of my life, including writing my thesis and this website.
 
