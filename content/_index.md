@@ -30,6 +30,26 @@ sections:
 #          icon_pack: fas
   - block: experience
     content:
+      title: Employment
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postdoctoral Fellow
+          company: Wellcome Sanger Institute
+          company_url: 'https://www.sanger.ac.uk/'
+          company_logo: 
+          location: Hinxton, United Kingdom
+          date_start: '2024-01-01'
+          date_end: 
+          description: 
+    design:
+      columns: '2'
+  - block: experience
+    content:
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
