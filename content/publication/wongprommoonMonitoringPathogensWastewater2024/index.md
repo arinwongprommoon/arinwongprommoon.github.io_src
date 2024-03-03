@@ -61,10 +61,9 @@ projects: []
 ---
 
 # Lay summary
-My team members (Chalita Chomkatekaew, Claire Chewapreecha) and I wrote a short article, which article reviews six recent studies that sample genetic material from wastewater to track spread of pathogens.
+My team members (Chalita Chomkatekaew, Claire Chewapreecha) and I wrote a short article, which reviews six recent studies that sample genetic material from wastewater to track spread of pathogens.
 
 Wastewater genomic surveillance is useful for tracking spread of pathogens because it is less biased than sampling individuals with diagnostic testing. By way of an example, wastewater sampling allowed local public health authorities to track the geographical spread of COVID-19 and identify rare variants. These could be missed by PCR or antigen tests that are realistically done on individuals who are willing to take tests or show symptoms.
 
-Wastewater sampling thus can serve as an early warning for policymakers and the public, and building infrastructure for localities to do is important. 
-Deep learning, a type of machine learning, can be used to predict how much protein a specific DNA sequence can produce. But, it usually needs a lot of data.
+Wastewater sampling thus can serve as an early warning for policymakers and the public, and building infrastructure for localities to do so is therefore important. 
 
