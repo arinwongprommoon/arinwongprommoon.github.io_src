@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral fellow at the Wellcome Sanger Institute, working with [Dr Claire Chewapreecha](https://www.sanger.ac.uk/external_person/chewapreecha-claire/) (Pathogens & Microbes) and [Dr Emma Davenport](https://davenportlab.com/) (Human Genetics) to find the transcriptomic and genetic basis for the host-pathogen interaction of melioidosis which determines severe disease. Melioidosis is a neglected tropical disease, endemic to areas such as Northeastern Thailand and Northern Australia.
+I am a postdoctoral fellow at the Wellcome Sanger Institute, working with [Dr Claire Chewapreecha](https://www.sanger.ac.uk/external_person/chewapreecha-claire/) (Parasites & Microbes) and [Dr Emma Davenport](https://davenportlab.com/) (Human Genetics) to find the transcriptomic and genetic basis for the host-pathogen interaction of melioidosis which determines severe disease. Melioidosis is a neglected tropical disease, endemic to areas such as Northeastern Thailand and Northern Australia.
 
 My further research interests include disease surveillance, including genomic surveillance, and how this fits in with public health, policy, and media. I'm also interested in best practices in developing software for biomedical research. My geek interests includes Linux and [GNU Emacs](https://www.gnu.org/software/emacs/). [Doom Emacs](https://github.com/doomemacs/doomemacs) is responsible for 80% of my life, including writing my thesis and this website.
 
