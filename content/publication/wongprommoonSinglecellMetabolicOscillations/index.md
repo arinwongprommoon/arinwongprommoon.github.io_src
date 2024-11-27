@@ -24,7 +24,12 @@ publication_short: "bioRxiv"
 abstract: "Biological rhythms not only coordinate cellular activity with external signals, but may also enable internal coordination. The metabolic cycle in budding yeast is perhaps the most well-studied example. Historically researchers have investigated this cycle in populations growing in chemostats, but more recently time-lapse microscopy has revealed single-cell oscillations in the redox state of enzyme cofactors and in ATP levels. How to relate the results of these two types of assays is however unclear. Here we report single-cell rhythms too in intracellular pH and show that oscillations in the redox state of flavin molecules occur in auxotrophic and prototrophic strains, in nutrients favouring respiration or fermentation, and in deletion mutants for which oscillations in chemostats are either unobservable or disrupted. To explain the pervasiveness of these rhythms, we postulate that cells generate oscillations to alleviate a proteome constraint -- amino acids cells use for one class of enzymes are unavailable for others. Using flux balance analysis with an enzyme-constrained genome-scale metabolic model, we show that, with a finite proteome, sequential synthesis of biomass components typically generates a shorter doubling time than synthesising components in parallel. Our results suggest that the metabolic cycle drives growth and is potentially widespread because all cells grow within a proteome constraint."
 
 tags:
-- Source Themes
+  - Microfluidics
+  - Live-cell imaging
+  - Yeast
+  - Metabolism
+  - Metabolic modelling
+  - Time series analysis
 featured: false
 
 # links:

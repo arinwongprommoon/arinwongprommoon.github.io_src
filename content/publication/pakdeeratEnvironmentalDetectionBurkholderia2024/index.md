@@ -46,7 +46,11 @@ The CRISPR-BP34 assay demonstrated improved sensitivity (93.52% vs 19.44% for co
 Our findings underscore the impact of environmental contamination on melioidosis risk. The robust association between contaminated water sources, including piped water systems, and clinical cases highlights the urgent need for improved water sanitation to mitigate melioidosis risk."
 
 tags:
-- Source Themes
+- Infectious disease
+- Public health
+- Melioidosis
+- Diagnostics
+- Demographics
 featured: false
 
 # links:

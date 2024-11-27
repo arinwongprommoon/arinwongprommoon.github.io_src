@@ -23,7 +23,11 @@ publication_short: "Nat Rev Microbiol"
 abstract: "Wastewater genomic surveillance can transform global viral disease monitoring. This Genome Watch article explores the techniques, analytical pipelines and implications for public health."
 
 tags:
-- Source Themes
+- Infectious disease
+- Public health
+- Epidemiology
+- Genomic surveillance
+- COVID-19
 featured: false
 
 # links:

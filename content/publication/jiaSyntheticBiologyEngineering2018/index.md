@@ -25,7 +25,7 @@ abstract: "Synthetic biology has enormous potential to solve problems in health,
 summary: "Synthetic biology has enormous potential to solve problems in health, agriculture, and energy. Bill Jia and Arin Wongprommoon explore engineering approaches to controlling biological processes." 
 
 tags:
-- Source Themes
+- Synthetic biology
 featured: false
 
 # links:

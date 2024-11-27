@@ -24,7 +24,8 @@ publication_short: "bioRxiv"
 abstract: "Metabolic models can be used to analyze and predict cellular features such as growth estimation, gene essentiality, and product formation. Metabolic models can be divided into two main types: constraint-based models and kinetic models. Constraint-based models usually account for a large subset of the metabolic reactions of the organism and, in addition to the reaction stoichiometry, these models can accommodate gene regulation and constant flux bounds of the reactions. Constraint-based models are mostly limited to the steady state and it is challenging to optimize competing objective functions. On the other hand, kinetic models contain detailed kinetic information of a relatively small subset of metabolic reactions; thus, they can only provide precise predictions of a reduced part of an organism’s metabolism. We propose an approach that combines these two types of models to enrich metabolic genome-scale constraint-based models by re-defining their flux bounds. We apply our approach to the constraint-based model of E. coli, both as a wild-type and when genetically modified to produce citramalate. Consequently, we show that the enriched model has more realistic reaction flux boundaries. We also resolve a bifurcation of fluxes between growth and citramalate production present in the genetically modified model by fixing the growth rate to the value computed according to kinetic information, enabling us to predict the rate of citramalate production."
 
 tags:
-- Source Themes
+- Metabolism
+- Metabolic modelling
 featured: false
 
 # links:

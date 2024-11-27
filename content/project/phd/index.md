@@ -6,6 +6,7 @@ tags:
   - Live-cell imaging
   - Yeast
   - Metabolism
+  - Metabolic modelling
   - Machine Learning
   - Time series analysis
   - Software development
