@@ -18,16 +18,16 @@ role: Systems biologist & bioinformatician
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wellcome Sanger Institute
-    url: https://www.sanger.ac.uk/
+  - name: Mahidol-Oxford Tropical Medicine Research Unit
+    url: https://www.tropmedres.ac/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Systems biologist & bioinformatician
 
 # Interests to show in About widget
 interests:
+  - Risk modelling of neglected tropical diseases
   - Machine learning & data science
-  - Time series analysis
   - Software development in biological research
 
 # Education to show in About widget
@@ -77,9 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral fellow at the Wellcome Sanger Institute, working with [Dr Claire Chewapreecha](https://www.sanger.ac.uk/external_person/chewapreecha-claire/) (Parasites & Microbes) and [Dr Emma Davenport](https://davenportlab.com/) (Human Genetics) to find the transcriptomic and genetic basis for the host-pathogen interaction of melioidosis which determines severe disease. Melioidosis is a neglected tropical disease, endemic to areas such as Northeastern Thailand and Northern Australia.
+I am a postdoctoral researcher at the Mahidol-Oxford Tropical Medicine Research Unit (MORU), working with [Dr Claire Chewapreecha](https://www.tropmedres.ac/team/claire-chewapreecha) and [Dr Emma Davenport](https://davenportlab.com/) at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/) to find the transcriptomic and genetic basis for the host-pathogen interaction of melioidosis which determines severe disease. Melioidosis is a neglected tropical disease, endemic to areas such as Northeastern Thailand and Northern Australia.
 
-My further research interests include disease surveillance, including genomic surveillance, and how this fits in with public health, policy, and media. I'm also interested in best practices in developing software for biomedical research. My geek interests includes Linux and [GNU Emacs](https://www.gnu.org/software/emacs/). [Doom Emacs](https://github.com/doomemacs/doomemacs) is responsible for 80% of my life, including writing my thesis and this website.
+My further research interests include risk modelling and disease surveillance, including genomic surveillance, and how this fits in with public health, policy, and media. I'm also interested in best practices in developing software for biomedical research. My geek interests includes Linux and [GNU Emacs](https://www.gnu.org/software/emacs/). [Doom Emacs](https://github.com/doomemacs/doomemacs) is responsible for 80% of my life, including writing my thesis and this website.
 
 Previously, my PhD at the University of Edinburgh was jointly supervised by [Dr Diego Oyarzún](https://homepages.inf.ed.ac.uk/doyarzun/) and [Prof Peter Swain](https://swainlab.bio.ed.ac.uk/). My project examined the metabolic oscillations in budding yeast using single-cell microfluidics.
 
