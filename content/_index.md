@@ -43,7 +43,7 @@ sections:
           company_url: 'https://www.tropmedres.ac/'
           company_logo: moru
           location: Bangkok, Thailand
-          date_start: '2024-01-01'
+          date_start: '2025-01-01'
           date_end: 
           description: 
         - title: Postdoctoral Fellow
