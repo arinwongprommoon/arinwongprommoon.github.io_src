@@ -74,7 +74,7 @@ sections:
           company_logo: uoe 
           location: Edinburgh, United Kingdom
           date_start: '2019-10-01'
-          date_end: '2023-10-31'
+          date_end: '2024-01-04'
           description: 
         - title: BA in Natural Sciences (Biochemistry)
           company: University of Cambridge
