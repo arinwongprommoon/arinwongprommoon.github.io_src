@@ -49,7 +49,7 @@ sections:
         - title: Postdoctoral Fellow
           company: Wellcome Sanger Institute
           company_url: 'https://www.sanger.ac.uk/'
-          company_logo: 
+          company_logo: sanger
           location: Hinxton, United Kingdom
           date_start: '2024-01-01'
           date_end: '2025-01-01'
