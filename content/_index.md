@@ -38,13 +38,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: Mahidol-Oxford Tropical Medicine Research Unit
+          company_url: 'https://www.tropmedres.ac/'
+          company_logo: 
+          location: Bangkok, Thailand
+          date_start: '2024-01-01'
+          date_end: 
+          description: 
         - title: Postdoctoral Fellow
           company: Wellcome Sanger Institute
           company_url: 'https://www.sanger.ac.uk/'
           company_logo: 
           location: Hinxton, United Kingdom
           date_start: '2024-01-01'
-          date_end: 
+          date_end: '2025-01-01'
           description: 
     design:
       columns: '2'
