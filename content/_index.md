@@ -38,13 +38,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher
+          company: Mahidol-Oxford Tropical Medicine Research Unit
+          company_url: 'https://www.tropmedres.ac/'
+          company_logo: moru
+          location: Bangkok, Thailand
+          date_start: '2024-01-01'
+          date_end: 
+          description: 
         - title: Postdoctoral Fellow
           company: Wellcome Sanger Institute
           company_url: 'https://www.sanger.ac.uk/'
-          company_logo: 
+          company_logo: sanger
           location: Hinxton, United Kingdom
           date_start: '2024-01-01'
-          date_end: 
+          date_end: '2025-01-01'
           description: 
     design:
       columns: '2'
@@ -66,7 +74,7 @@ sections:
           company_logo: uoe 
           location: Edinburgh, United Kingdom
           date_start: '2019-10-01'
-          date_end: '2023-10-31'
+          date_end: '2024-01-04'
           description: 
         - title: BA in Natural Sciences (Biochemistry)
           company: University of Cambridge
@@ -228,7 +236,7 @@ sections:
       text: |-
          
       # Contact (add or remove contact options as necessary)
-      email: aw40@sanger.ac.uk
+      email: arin@tropmedres.ac
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -239,9 +247,9 @@ sections:
 #        country: United States
 #        country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'On-site: Monday, Tuesday, Thursday, Friday -- 09:00 to 17:00'
-        - 'Remotely: Wednesday -- 09:00 to 17:00'
+#      office_hours:
+#        - 'On-site: Monday, Tuesday, Thursday, Friday -- 09:00 to 17:00'
+#        - 'Remotely: Wednesday -- 09:00 to 17:00'
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
