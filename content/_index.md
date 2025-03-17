@@ -236,7 +236,7 @@ sections:
       text: |-
          
       # Contact (add or remove contact options as necessary)
-      email: aw40@sanger.ac.uk
+      email: arin@tropmedres.ac
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -247,9 +247,9 @@ sections:
 #        country: United States
 #        country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'On-site: Monday, Tuesday, Thursday, Friday -- 09:00 to 17:00'
-        - 'Remotely: Wednesday -- 09:00 to 17:00'
+#      office_hours:
+#        - 'On-site: Monday, Tuesday, Thursday, Friday -- 09:00 to 17:00'
+#        - 'Remotely: Wednesday -- 09:00 to 17:00'
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
