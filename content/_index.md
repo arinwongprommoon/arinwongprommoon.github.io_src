@@ -236,7 +236,7 @@ sections:
       text: |-
          
       # Contact (add or remove contact options as necessary)
-      email: arin@tropmedres.ac
+#      email: email@here.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -250,7 +250,11 @@ sections:
 #      office_hours:
 #        - 'On-site: Monday, Tuesday, Thursday, Friday -- 09:00 to 17:00'
 #        - 'Remotely: Wednesday -- 09:00 to 17:00'
-#      contact_links:
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: LinkedIn
+          link: 'https://www.linkedin.com/in/arin-wongprommoon/'
 #        - icon: twitter
 #          icon_pack: fab
 #          name: DM Me
