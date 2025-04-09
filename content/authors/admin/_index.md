@@ -59,7 +59,7 @@ social:
     link: https://github.com/arinwongprommoon
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/arinwongprommoon
+    link: https://www.linkedin.com/in/arin-wongprommoon/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
