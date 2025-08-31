@@ -1,6 +1,7 @@
 baseURL: "https://<your-username>.github.io/"
 title: "<Your Site Title>"
-paginate: 10
+pagination:
+  pagerSize: 10
 summaryLength: 30
 enableRobotsTXT: true
 enableGitInfo: true
