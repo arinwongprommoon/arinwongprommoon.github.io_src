@@ -1,0 +1,21 @@
+baseURL: "https://<your-username>.github.io/"
+title: "<Your Site Title>"
+paginate: 10
+summaryLength: 30
+enableRobotsTXT: true
+enableGitInfo: true
+
+cascade:
+  _target:
+    path: "/post/**"
+  toc: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "dracula"
+
+build:
+  writeStats: false

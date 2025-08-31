@@ -1,113 +1,18 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
+description: "Academic CV and blog"
+favicon:
+  icon: "icon.png"
 
 appearance:
-  theme_day: strawberry
-  theme_night: strawberry
-  font: minimal
-  font_size: S
-
-# SEO
-
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Arin Wongprommoon'
-    twitter: ''
-  analytics:
-    google_analytics: ''
-  verification:
-    google: ''
-    bing: ''
-
-# Site header
-
-header:
-  navbar:
-    enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
-  copyright:
-    notice: '© {year} Arin Wongprommoon. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
+  mode: auto
+  color_scheme: ocean
 
 locale:
-  date_format: '2 Jan 2006'
-  time_format: '15:04'
-  address_format: en-gb
-
-# Site features
+  date_format: "Jan 2, 2006"
 
 features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-  math:
-    enable: true
-  privacy_pack:
-    enable: true
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: 'commento'
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'google'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  main_menu: true
+  search: true
+  comments:
+    provider: ""
+  analytics:
+    google_analytics_id: ""
