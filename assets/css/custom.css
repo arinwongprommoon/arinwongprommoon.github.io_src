@@ -1,0 +1,9 @@
+section#section-markdown .flex {
+    max-width: 100%;
+}
+article .prose {
+    max-width: 100%;
+}
+article .max-w-prose {
+    max-width: 100%;
+}

@@ -8,20 +8,19 @@ authors:
 - Songchan Puthong
 - Chanpen Chanchao
 date: "2018-12-25T00:00:00Z"
-doi: "10.31557/APJCP.2018.19.12.3427"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Asian Pacific Journal of Cancer Prevention"
 publication_short: "Asian Pac J Cancer Prev"
+
 
 abstract: "**Background:** Bronchogenic carcinoma (lung cancer) is one of the leading causes of death. Although many compounds isolated from natural products have been used to treat it, drug resistance is a serious problem, and alternative anti-cancer drugs are required. Here, melittin from Apis mellifera venom was used, and its effects on bronchogenic carcinoma cell proliferation and tumour-associated macrophage differentiation were evaluated.\n
 
@@ -32,7 +31,7 @@ abstract: "**Background:** Bronchogenic carcinoma (lung cancer) is one of the le
 **Conclusion:** Melittin can be used as an alternative agent for lung cancer treatment because of its cytotoxicity against ChaGo-K1 cells and the inhibition of differentiation of THP-1 cells into TAMs."
 
 # Summary. An optional shortened abstract.
-summary: "" 
+summary: ""
 
 tags:
 - Cancer
@@ -42,17 +41,27 @@ tags:
 - Developmental biology
 featured: false
 
-# links:
-# - name: "Publication site"
-#   url: https://journal.waocp.org/article_77406.html
-url_pdf: "https://journal.waocp.org/article_77406_47ba9fcd1fa1734bb148764f50eb9529.pdf"
-#url_code: "https://doi.org/10.5281/zenodo.7273952"
-#url_dataset: "https://doi.org/10.5281/zenodo.7273952"
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+hugoblox:
+  ids:
+    doi: 10.31557/APJCP.2018.19.12.3427
+
+links:
+  - type: pdf
+    url: https://journal.waocp.org/article_77406_47ba9fcd1fa1734bb148764f50eb9529.pdf 
+#  - type: code
+#    url: ""
+#  - type: dataset
+#    url: ""
+#  - type: poster
+#    url: ""
+#  - type: project
+#    url: ""
+#  - type: slides
+#    url: ""
+#  - type: source
+#    url: ""
+#  - type: video
+#    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -73,10 +82,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: ""
 ---
 
-# Lay summary
+## Lay summary
 Lung cancers are resistant to many drugs. Bee venom contains a protein called melittin. We want to know if it kills lung cancer cells and stops macrophages -- a type of white blood cell -- from changing cell type. Macrophages are important as it changes behaviour in lung cancer.
 
 We tested melittin on:
@@ -90,7 +99,5 @@ We found that melittin does indeed kill cancer cells and stop them from dividing
 
 So, we think doctors can use melittin to treat lung cancer.
 
-# My role
+## My role
 I performed some experiments. I added melittin in various concentrations to see which concentration kills the lung cancer cells. This work became figure 5 in the paper. I also performed RT-qPCR to detect RNAs -- this is the same technique people use to perform PCR tests to detect COVID-19.
-
-I also gave feedback on the manuscript.

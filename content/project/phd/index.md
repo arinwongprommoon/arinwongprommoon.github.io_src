@@ -1,6 +1,9 @@
 ---
 title: PhD Project
-summary: PhD Project 
+date: 2023-10-31
+links:
+  - type: site
+    url: https://core.ac.uk/download/pdf/598035046.pdf
 tags:
   - Microfluidics
   - Live-cell imaging
@@ -10,31 +13,6 @@ tags:
   - Machine Learning
   - Time series analysis
   - Software development
-date: '2019-10-01T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: 
 ---
 
 My PhD project was conducted under the joint supervision of [Dr Diego Oyarzún](https://homepages.inf.ed.ac.uk/doyarzun/) (computational) and [Prof Peter Swain](https://swainlab.bio.ed.ac.uk/) (laboratory & computational), at the University of Edinburgh.
@@ -53,4 +31,4 @@ In addition, I was part of the team that developed [aliby](https://pypi.org/proj
 
 For me, this was a valuable foray in collaborative software development. Of course, I sharpened my Python skills, but also DevOps: automated testing and deployment of software, managing software versions, maintaining servers for users, and making sure things don't crash and burn. I learnt how to talk to other developers, project managers, and users (biologist and physicists) of varying programming or technical abilities. Naturally, I learnt to navigate lots and lots and lots of conflicts -- both merge conflicts and inevitable conflicts between ideas!
 
-My PhD work eventually led to a paper that showed that [single-cell metabolic oscillations are pervasive and may alleviate a proteome constraint]({{< relref "../../publication/wongprommoonSinglecellMetabolicOscillations/" >}}). During my PhD, I also worked on a paper on the [accuracy and data efficiency in deep learning models of protein expression]({{< relref "../../publication/nikoladosaccuracydataefficiency2022/" >}}).
+My PhD work eventually led to a paper that showed that [single-cell metabolic oscillations are pervasive and may alleviate a proteome constraint]({{< relref "../../publication/wongprommoonSinglecellMetabolicOscillations2024/" >}}). During my PhD, I also worked on a paper on the [accuracy and data efficiency in deep learning models of protein expression]({{< relref "../../publication/nikoladosaccuracydataefficiency2022/" >}}).
