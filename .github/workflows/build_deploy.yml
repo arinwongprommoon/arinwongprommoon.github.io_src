@@ -1,28 +1,38 @@
-name: Build and Deploy
+name: GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main  # Set a branch name to trigger deployment
+  pull_request:
 
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  deploy:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-    - name: Checkout main
-      uses: actions/checkout@v1
-      with:
-        submodules: true
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-    - name: Hugo Deploy GitHub Pages
-      run: docker build --pull -t myimage .
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.148.2
-        HUGO_EXTENDED: true
-        TARGET_REPO: arinwongprommoon/arinwongprommoon.github.io
-        TOKEN: ${{ secrets.GH_PAT }}
-        HUGO_ARGS: --debug
-        GO_VERSION: 1.25
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.148.2'
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        # If you're changing the branch from main,
+        # also change the `main` in `refs/heads/main`
+        # below accordingly.
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
