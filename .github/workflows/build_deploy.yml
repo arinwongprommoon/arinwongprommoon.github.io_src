@@ -8,7 +8,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout main
@@ -17,6 +17,7 @@ jobs:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
+      run: docker build --pull -t myimage .
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.148.2
