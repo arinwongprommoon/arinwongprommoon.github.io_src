@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Tutorials
+summary: Tutorials
 type: landing
 
 cascade:
