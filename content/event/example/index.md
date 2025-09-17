@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Watch this space
 
-event: Hugo Blox Builder Conference
+event: My Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Conference Venue
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 3/F, 60th Anniversary Chalermprakiat Building, 420/6 Rajvithi Road
+  city: Bangkok
+  region: Bangkok
+  postcode: '10400'
+  country: Thailand
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Watch this space for my talks!
+abstract: 'Watch this space for my talks!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '1970-01-01T00:00:00Z'
+date_end: '1970-01-01T01:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -37,12 +37,12 @@ image:
   focal_point: Right
 
 links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+#  - type: code
+#    url: https://github.com
+#  - type: slides
+#    url: https://slideshare.net
+#  - type: video
+#    url: https://youtube.com
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,13 +61,5 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+This is a placeholder page for a future talk.
 {{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using the `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
