@@ -29,7 +29,7 @@ tags:
 - Epidemiology
 - Genomic surveillance
 - COVID-19
-featured: false
+featured: true
 
 hugoblox:
   ids:
